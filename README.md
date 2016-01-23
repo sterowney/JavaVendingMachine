@@ -1,9 +1,9 @@
-=== INSTRUCTIONS ===
+# INSTRUCTIONS
 
-Basic maven product with Junit as dependency from Maven central. I hope you like it! Steven
+Basic maven project with Junit as dependency from Maven central.
 
 
-=== MY NOTES ===
+## MY NOTES
 
 Little readme with my to do list explaining what it does  (almost a mini backlog in logically prioritised order)
 
@@ -27,7 +27,7 @@ feature select product
     - no stock left
 
 
-SPECIFICATION
+## SPECIFICATION
 
 The valid set of actions on the vending machine is:
 * INSERT MONEY – Ten Pence, Twenty Pence, Fifty Pence, Pound
