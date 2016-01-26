@@ -1,4 +1,4 @@
-package com.tescobank.vending.machine;
+package com.thebluecabrio.vending.machine;
 
 import java.math.BigDecimal;
 

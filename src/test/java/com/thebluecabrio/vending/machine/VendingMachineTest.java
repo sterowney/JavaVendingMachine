@@ -1,5 +1,8 @@
-package com.tescobank.vending.machine;
+package com.thebluecabrio.vending.machine;
 
+import com.thebluecabrio.vending.machine.MoneyUtils;
+import com.thebluecabrio.vending.machine.Product;
+import com.thebluecabrio.vending.machine.VendingMachine;
 import org.junit.Before;
 import org.junit.Test;
 
